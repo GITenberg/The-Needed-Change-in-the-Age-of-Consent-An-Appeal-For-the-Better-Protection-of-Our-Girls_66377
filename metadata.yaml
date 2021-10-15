@@ -1,0 +1,26 @@
+_repo: The-Needed-Change-in-the-Age-of-Consent-An-Appeal-For-the-Better-Protection-of-Our-Girls_66377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, Richard
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '53778'
+    url: http://www.gutenberg.org/2009/agents/53778
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Arthur_(Australian_politician)
+description: ''
+gutenberg_issued: '2021-09-25'
+identifiers:
+  gutenberg: '66377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Age of consent -- Australia -- New South Wales'
+- GITenberg
+title: 'The Needed Change in the Age of Consent
+
+  An Appeal For the Better Protection of Our Girls'
+url: http://www.gutenberg.org/ebooks/66377
